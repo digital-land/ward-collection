@@ -25,4 +25,3 @@ prune::
 
 makerules::
 	curl -qfsL '$(SOURCE_URL)/makerules/main/development.mk' > makerules/development.mk
-	
